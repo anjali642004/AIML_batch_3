@@ -11,4 +11,6 @@
 
 6.[lab-6](https://github.com/anjali642004/AIML_batch_3/blob/main/lab6.ipynb)
 
+7.[lab-7](https://github.com/anjali642004/AIML_batch_3/blob/main/lab7.ipynb)
+
 
